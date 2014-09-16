@@ -1,4 +1,4 @@
 android_practice
 ================
 
-Contain all practice examples
+Contain all android practice examples
